@@ -1,0 +1,72 @@
+1. Legyen Bejelentkezõ ablak
+	1. Felhasználó név input
+	2. Jelszó input
+	3. Bejelentkezés gomb
+	4. Regisztráció gomb
+2. Legyen Regisztráció ablak
+	1. Felhasználó név input
+	2. Kép
+	3. Jelszó input
+	4. Kép
+	5. E-mail cím input
+	6. Jogosultság nem szerkeszthetõ input
+	7. Regisztráció gomb
+3. Legyen Fõmenü ablak
+	1. Rendõrök gomb
+	2. Fegyvereim gomb
+	3. Kiegészítõim gomb
+	4. Súgó gomb
+	5. Kijelentkezés gomb
+4. Legyen Rendõrök ablak
+	1. Listview felsorolva a rendõrök, képpel, névvel
+	2. Vissza a Fõmenübe gomb
+5. Legyen Fegyvereim ablak
+	1. Listview felsorolva a fegyvereim
+	2. Új fegyver felvétele gomb
+	3. Vissza a Fõmenübe gomb
+6. Legyen Kiegészítõim ablak
+	1. Listview felsorolve a kiegészítõim
+	2. Új kiegészítõ felvétele gomb
+	3. Vissza a Fõmenübe gomb
+7. Legyen Súgó ablak
+	1. Egy nagy txt box, ahol fel van sorolva mit, hogy kell használni
+	2. Vissza a Fõmenübe gomb
+8. Legyen Kijelentkezés ablak
+	1. Vissza dob a bejelentkezõbe
+9. Legyenek Háttérfájlok, melyek a project többi részében is használhatóak
+	1. Felhasználók
+		Név
+		Jelszó
+		E-mail cím
+		Jogkör
+			1: Adminisztrátor
+			2: Oktató
+			3: Admin + Oktató (1+2 = 3)
+			4: Hallgató
+			6: Oktató + Hallgató (2+4 = 5)
+			7: Admin + Oktató + Hallgató (1+2+4 = 7)
+	2. Fegyverek
+		Tulajdonos
+		ID
+		Név
+		Kinézet (ezt mind a Kiegészítõkbõl tudja kiválasztani)
+		Csõ
+		Csõ vég
+		
+	3. Kiegészítõk
+		ID
+		Név
+		Kinézet (img) helye, neve
+		Kinézet típusa
+			Skin
+			Barrel
+			Barrel Ext
+			Boost
+			Custom
+			ForeGrip
+			Gadget
+			Grip
+			Lower Receiver
+			Magazine
+			Sight
+10.Legyen egy jó stílus

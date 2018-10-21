@@ -1,0 +1,25 @@
+1. Bejelentkezõ ablak
+	1. A KS.1.3. leellenõrzi, hogy megfelelõ-e a név, és a jelszó, szerepel-e a Felhasználók adabázisban
+	2. A KS.1.4. átirányítja a felhasználót a Regisztráció ablakra
+2. Regisztráció ablak
+	1. A KS.2.1. lemett elhelyezett kép (KS.2.2.) reagál, hogy ha felhasználónév megfelelõ/nem megfelelõ
+	2. A KS.2.3. lemett elhelyezett kép (KS.2.4.) reagál, hogy ha a jelszó megfelelõ/nem megfelelõ
+	3. A KS.2.7. megnyomása után, ha minden rendben, a felhasználót rögzíti a Felhasználók adabázisban, majd vissza rak a Bejelentkezõ ablakra
+3. Fõmenü ablak
+	1. A KS.3.1. megnyomása után hozza be a KS.4.-et
+	2. A KS.3.2. megnyomása után hozza be a KS.5.-öt
+	3. A KS.3.3. megnyomása után hozza be a KS.6.-ot
+	4. A KS.3.4. megnyomása után hozza be a KS.7.-et
+	5. A KS.3.5. megnyomása után hozza be a KS.8.-at
+4. Rendõrök ablak
+	1. A KS.4.2. megnyomása után hozza be a KS.3.-at
+5. Fegyvereim ablak
+	1. A KS.5.2. megnyomása után hozza be a ERROR:404 Not found
+	2. A KS.5.3. megnyomása után hozza be a KS.3.-at
+6. Kiegészítõim ablak
+	1. A KS.6.2. megnyomása után hozza be a ERROR:404 Not found
+	2. A KS.6.3. megnyomása után hozza be a KS.3.-at
+7. Súgó ablak
+	1. A KS.7.2. megnyomása után hozza be a KS.3.-at
+8. Kijelentkezõ ablak
+	1. Átirányít a KS.1.-be 30mp után
